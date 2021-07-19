@@ -3,6 +3,7 @@
  width: 100px;
 }
 .danger-btn{
+    border:1px solid pink;
     color: white;
-    background-image: linear-gradient(to top right , rgb(26, 83, 0),rgb(28, 167, 10))
+    background-image: linear-gradient(to top right , rgb(235, 20, 199),rgb(255, 97, 189))
 }
