@@ -2,3 +2,7 @@
 .catagories img{
  width: 100px;
 }
+.danger-btn{
+    color: white;
+    background-image: linear-gradient(to top right , rgb(26, 83, 0),rgb(28, 167, 10))
+}
